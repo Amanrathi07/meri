@@ -131,7 +131,7 @@ Personalisation has evolved from demographic segmentation in the 1990s to **AI-b
 Modern systems leverage machine-learning models to deliver relevant messages in real time (Shankar & Kannan, 2021).  
 The **4Rs framework**—*Relevance, Recognition, Reciprocity, Respect*—defines ethical personalisation (IBM Marketing Cloud, 2025).
 
-![Figure 2 – Stages of Marketing Personalisation](https://miro.medium.com/v2/resize:fit:1400/1*yT1uGl6bM8R7e2cHjvxDpg.png)  
+![Figure 2 – Stages of Marketing Personalisation](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.HC8remsoGOKPjPD1BkfrWwHaDR%3Fpid%3DApi&f=1&ipt=dc75193b416930362bdd28ce454cb143dcec55a09ea6e4fc1dd35f601417d28f&ipo=images)  
 *Source: IBM Marketing Cloud (2025).*
 
 Empirical evidence shows that firms using adaptive recommendation engines achieve:  
@@ -155,7 +155,7 @@ In digital contexts, discount mechanisms include:
 3. **Gamified discounts:** integrated with engagement elements such as spin-the-wheel or loyalty levels.  
 4. **Geo-personalised discounts:** triggered by location or purchase proximity.  
 
-![Figure 3 – Consumer Response Curve to Personalised Price Offers](https://cdn.dataconomy.com/wp-content/uploads/2025/03/personalized-discount-curve.png)  
+![Figure 3 – Consumer Response Curve to Personalised Price Offers](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftextimgs.s3.amazonaws.com%2FDE%2Fmicroecon%2Fu1t9-s44mgw6i%23fixme%23fixme%23fixme%23fixme%23fixme%23fixme&f=1&nofb=1&ipt=c93e73ae64fee321a90fbb280bfed62a670a42a3a3cab7a466a5bd5e7880756f)  
 *Source: DataConomy (2025).*
 
 Research shows that personalisation moderates discount effectiveness (Chen et al., 2022):  
@@ -234,8 +234,7 @@ The conceptual framework integrates theories from **consumer psychology**, **beh
 
 **Figure 3.1: Theoretical Framework of Personalised Discount Influence on Satisfaction**
 
-![Conceptual model illustrating mediation between personalised discount, perceived fairness, trust, and consumer satisfaction](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Customer_Satisfaction_Model_2.svg/800px-Customer_Satisfaction_Model_2.svg.png)  
-*Source: Adapted from Zeithaml et al. (2022) and Kumar & Gupta (2023)*
+![Conceptual model illustrating mediation between personalised discount, perceived fairness, trust, and consumer satisfaction](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F344422064%2Ffigure%2Ffig1%2FAS%3A955484752343045%401604816725307%2FAmerican-customer-satisfaction-framework-ACSF-Source-Bryant-1995.jpg&f=1&nofb=1&ipt=51a187a234c085721358f6a7e61d0da5fe4f03140a71fadf4514ae75b345d545) and Kumar & Gupta (2023)*
 
 ---
 
@@ -297,7 +296,7 @@ Quantitative data were analysed using **SPSS and Python (pandas, statsmodels)**.
 
 **Figure 3.2: Methodological Flow Diagram**
 
-![Research process flowchart](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Research_Methodology_Process_Flowchart.svg/800px-Research_Methodology_Process_Flowchart.svg.png)  
+![Research process flowchart](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.SBTZohBXMQuzzixHLjq8SgHaDN%3Fpid%3DApi&f=1&ipt=8f507a023ab9e21d03e89f29f1623e81d45207daf5fb893e9bb84e62d1512208&ipo=images)  
 *Source: Author’s compilation (2025)*
 
 ---
@@ -400,7 +399,7 @@ Respondents generally perceive personalised discounts **positively**, suggesting
 | Consumer Satisfaction (CS) | 0.68 | 0.62 | 0.60 | 0.66 | 1.00 |
 
 **Figure 4.1: Correlation Heatmap (Illustrative)**  
-![Heatmap showing strong correlation between personalised discounts, fairness, and satisfaction](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Correlation_heatmap_example.png/800px-Correlation_heatmap_example.png)
+![Heatmap showing strong correlation between personalised discounts, fairness, and satisfaction](https://englishpluspodcast.com/wp-content/uploads/2024/07/What-is-the-difference-between-justice-and-fairness-1280x720.jpg)
 
 **Interpretation:**  
 All correlations are positive and significant (p < 0.05). The strongest relationships are observed between **personalised discounts (PD)** and **consumer satisfaction (CS)** (r = 0.68), followed by **emotional engagement (r = 0.66)**. This supports **H1**, confirming that personalisation enhances satisfaction levels.
@@ -433,7 +432,7 @@ Using PROCESS Macro (Model 4 and 14), mediation and moderation analyses were per
 
 **Figure 4.2: Mediation and Moderation Model**
 
-![Model showing mediation by fairness and trust, and moderation by emotional engagement](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mediation_Model_Example.svg/800px-Mediation_Model_Example.svg.png)
+![Model showing mediation by fairness and trust, and moderation by emotional engagement](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.eJ7E4t0fiUa9C0P3mAnJ8AHaDt%3Fpid%3DApi&f=1&ipt=794e85f89be1e6750e7115d9a8adc0841ae7fe44abc23e8256cb70019f3824bb&ipo=images)
 
 **Interpretation:**  
 When emotional engagement is high, the positive influence of personalisation on satisfaction becomes even stronger. This implies that *how* a discount makes a consumer feel can be as important as *how much* it saves them.
@@ -494,7 +493,7 @@ This comparative positioning enhances the external validity of the current findi
 
 **Figure 4.4: Summary Model of Research Findings**
 
-![Summary diagram showing pathways from personalised discounts to satisfaction through mediators](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Summary_Model_Example.svg/800px-Summary_Model_Example.svg.png)
+![Summary diagram showing pathways from personalised discounts to satisfaction through mediators](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Femarsys.com%2Fapp%2Fuploads%2F2023%2F04%2F20230424_EN_Personalised-Marketing_feature-image_1100x580px_v1.jpg&f=1&nofb=1&ipt=95f9496b075b4dad0466e8498bfee01787c4bbcc33156b7d2898ac8f0d97a598)
 
 ---
 
@@ -556,7 +555,7 @@ Thus, this study contributes to marketing literature by empirically validating a
    Move beyond click-through rates; include Net Promoter Score (NPS), Customer Lifetime Value (CLV), and Trust Indices.
 
 **Figure 5.1: Framework for Ethical AI-Driven Personalisation**  
-![Diagram showing balance between AI precision, transparency, and consumer trust](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ethical_AI_Framework.svg/800px-Ethical_AI_Framework.svg.png)
+![Diagram showing balance between AI precision, transparency, and consumer trust](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.teraflow.ai%2Fwp-content%2Fuploads%2F2023%2F09%2FBlog-Images__-Balancing-AI-Transparency-and-Capabilities-2048x1070.jpg&f=1&nofb=1&ipt=8b9507f7e7e147212e16bf0e3564e6582af2b0b7df356ec8813688037ff5547b)
 
 ---
 
