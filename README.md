@@ -39,7 +39,7 @@ Traditional mass marketing—once efficient under homogeneous demand—has erode
 According to *Deloitte (2025)*, global investment in personalisation technologies exceeded **USD 15 billion**, driving revenue increases of 10 – 35 % for early adopters.  
 Personalised discounts epitomise this transformation: they combine monetary incentive with contextual intelligence, leveraging datasets such as browsing history, geolocation, and purchase recency to craft real-time offers.
 
-![Figure 1 – Evolution of Personalisation in Retail (1990–2025)](https://retail-today.com/wp-content/uploads/2025/04/evolution-personalization-retail-timeline.jpg)  
+![Figure 1 – Evolution of Personalisation in Retail (1990–2025)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Marketing_Evolution_Timeline.svg/800px-Marketing_Evolution_Timeline.svg.png)  
 *Source: Retail Today (2025).*
 
 The rise of **digital natives**—who comprise nearly 60 % of global shoppers—further intensifies the demand for seamless, cross-channel personalisation.  
