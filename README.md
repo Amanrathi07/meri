@@ -628,12 +628,4 @@ Ultimately, the fusion of **AI precision** with **human empathy** defines the fu
 
 ---
 
-**End of Thesis**
-
-*Submitted to:* Dr. Lalita Yadav  
-*Submitted by:* **Tohfa Praveen**  
-*Student ID:* 24CET0573  
-*Date:* October 31, 2025  
-
----
 
