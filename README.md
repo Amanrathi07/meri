@@ -450,8 +450,8 @@ Thematic analysis from 15 interviews revealed the following dominant themes:
 | Fairness Perception | Differential pricing is viewed cautiously | “It’s unfair if others get better deals.” |
 | Emotional Gratification | Surprise offers enhance brand liking | “Getting an unexpected coupon made me smile.” |
 
-**Figure 4.3: Word Cloud from Interview Responses**  
-![Word cloud of common interview terms: trust, fairness, relevance, privacy, engagement](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Word_Cloud_Example.svg/800px-Word_Cloud_Example.svg.png)
+ 
+![Word cloud of common interview terms: trust, fairness, relevance, privacy, engagement](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.lHeCHvcMm0rIH_V9_4CiCAHaEK%3Fpid%3DApi&f=1&ipt=a27fb43ad822f98e4b92a0370fe983dd99269eabd5e3bee87293dded2a650f56&ipo=images)
 
 **Interpretation:**  
 The qualitative findings reinforce the quantitative results. While consumers enjoy relevant discounts, **trust and fairness are non-negotiable**. Emotional connection — not just algorithmic precision — defines satisfaction depth.
@@ -491,7 +491,6 @@ This comparative positioning enhances the external validity of the current findi
 4. Consumers are enthusiastic yet cautious — valuing both relevance and privacy.  
 5. Satisfaction is a composite of **value recognition, ethical assurance, and emotional reward**.  
 
-**Figure 4.4: Summary Model of Research Findings**
 
 ![Summary diagram showing pathways from personalised discounts to satisfaction through mediators](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Femarsys.com%2Fapp%2Fuploads%2F2023%2F04%2F20230424_EN_Personalised-Marketing_feature-image_1100x580px_v1.jpg&f=1&nofb=1&ipt=95f9496b075b4dad0466e8498bfee01787c4bbcc33156b7d2898ac8f0d97a598)
 
@@ -554,8 +553,6 @@ Thus, this study contributes to marketing literature by empirically validating a
 5. **Measure Success through Satisfaction Metrics:**  
    Move beyond click-through rates; include Net Promoter Score (NPS), Customer Lifetime Value (CLV), and Trust Indices.
 
-**Figure 5.1: Framework for Ethical AI-Driven Personalisation**  
-![Diagram showing balance between AI precision, transparency, and consumer trust](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.teraflow.ai%2Fwp-content%2Fuploads%2F2023%2F09%2FBlog-Images__-Balancing-AI-Transparency-and-Capabilities-2048x1070.jpg&f=1&nofb=1&ipt=8b9507f7e7e147212e16bf0e3564e6582af2b0b7df356ec8813688037ff5547b)
 
 ---
 
